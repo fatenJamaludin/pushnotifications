@@ -1,0 +1,75 @@
+{
+  "project_info": {
+    "project_id": "push-notifications-1250",
+    "project_number": "1019468025758",
+    "name": "Push Notifications"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1019468025758:android:15a6a6bd38e3ad70",
+        "client_id": "android:com.example.user.pushnotiwithgcm",
+        "client_type": 1,
+        "android_client_info": {
+          "package_name": "com.example.user.pushnotiwithgcm",
+          "certificate_hash": []
+        }
+      },
+      "oauth_client": [],
+      "api_key": [],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "cloud_messaging_service": {
+          "status": 2,
+          "apns_config": []
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "google_signin_service": {
+          "status": 1
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1019468025758:android:d6a0b6794e34bc5c",
+        "client_id": "android:com.example.user.pushnotifications2",
+        "client_type": 1,
+        "android_client_info": {
+          "package_name": "com.example.user.pushnotifications2",
+          "certificate_hash": []
+        }
+      },
+      "oauth_client": [],
+      "api_key": [],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "cloud_messaging_service": {
+          "status": 2,
+          "apns_config": []
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "google_signin_service": {
+          "status": 1
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "client_info": [],
+  "ARTIFACT_VERSION": "1"
+}
